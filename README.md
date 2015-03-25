@@ -1,2 +1,3 @@
 # myGit
-My Git Description
+My Git Description successfully edited
+
