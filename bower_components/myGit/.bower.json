@@ -1,0 +1,14 @@
+{
+  "name": "myGit",
+  "homepage": "https://github.com/biljanaManeva/myGit",
+  "_release": "2d0948f611",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2d0948f611df588f350e73e936683172221c9f4f"
+  },
+  "_source": "git://github.com/biljanaManeva/myGit.git",
+  "_target": "*",
+  "_originalSource": "biljanaManeva/myGit",
+  "_direct": true
+}
