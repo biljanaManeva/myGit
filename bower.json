@@ -1,0 +1,27 @@
+{
+  "name": "myGit",
+  "version": "0.0.0",
+  "homepage": "https://github.com/biljanaManeva/myGit",
+  "authors": [
+    "biljanaManeva <biljana.maneva93@gmail.com>"
+  ],
+  "description": "Test example in sedc course about bower",
+  "main": "main.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
